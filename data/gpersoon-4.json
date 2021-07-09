@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "wrapCall with weird ERC20 contracts",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/4"
+}
