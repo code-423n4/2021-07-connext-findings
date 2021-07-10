@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Issues with fee-on transfer & rebasing tokens",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/11"
+}
