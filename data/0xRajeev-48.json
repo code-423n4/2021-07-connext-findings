@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Anyone can arbitrarily add router liquidity",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/48"
+}
