@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "GalloDaSballo",
+  "address": "0xB943cdb5622E7Bb26D3E462dB68Ee71D8868C940",
+  "risk": "G",
+  "title": "GAS: removeUserActiveBlocks can be done by finding and eliminating the found, rather than copying all fields into a new array",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/55"
+}
