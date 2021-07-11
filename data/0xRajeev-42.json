@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Consolidating library functions can save gas by preventing external calls",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/42"
+}
