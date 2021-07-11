@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Router liquidity on receiving chain can be double-dipped by the user",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/46"
+}
