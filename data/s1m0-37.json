@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "s1m0",
+  "address": "0x7d379c4d48FB5bff0FDcb3efE14F7864aD46Dc10",
+  "risk": "3",
+  "title": "The fallback receiver address could get twice the toSend amount",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/37"
+}
