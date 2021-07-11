@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "GalloDaSballo",
+  "address": "0xB943cdb5622E7Bb26D3E462dB68Ee71D8868C940",
+  "risk": "0",
+  "title": "Refacotr: Reuse same code for hashVariantTransactionData with txData and when preparedBlockNumber is 0",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/56"
+}
