@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Using access lists can save gas due to EIP-2930 post-Berlin hard fork",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/39"
+}
