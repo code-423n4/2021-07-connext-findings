@@ -1,0 +1,9 @@
+{
+  "contest": "Connext contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Checking non-zero value can avoid an external call to save gas",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2021-07-connext-findings/issues/45"
+}
