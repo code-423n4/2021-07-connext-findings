@@ -1,3 +1,11 @@
+---
+sponsor: "Connext"
+slug: "2021-07-connext-findings"
+date: "2021-08-30"
+title: "Connext"
+findings: "https://github.com/code-423n4/2021-07-connext-findings/issues"
+contest: 19
+---
 
 # Overview
 
